@@ -1,4 +1,4 @@
-import { supabase } from "./supabaseclient";
+import supabase from "./supabaseclient.mjs";
 
 // services/taskservice.mjs
 
