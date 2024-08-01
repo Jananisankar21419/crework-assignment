@@ -1,6 +1,7 @@
 ### Crework Assignment: 
 
-[![Link](https://www.notion.so/Assignment-Trello-Style-Task-Management-Application-1-343c97ccb2cc445f9ea522d988bd4941?pvs=4)](https://www.notion.so/Assignment-Trello-Style-Task-Management-Application-1-343c97ccb2cc445f9ea522d988bd4941?pvs=4)
+Assignment [Link](https://www.notion.so/Assignment-Trello-Style-Task-Management-Application-1-343c97ccb2cc445f9ea522d988bd4941?pvs=4).
+
 
 ### signup :
 
