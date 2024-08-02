@@ -1,25 +1,22 @@
-### Crework Assignment: 
+# Crework Assignment
 
-### signup :
+## Signup
 
-username: Joe Gardner
+- Username: Joe Gardner
+- Email: jgardner@gmail.com
+- Password: 12345678
 
-email: jgardner@gmail.com
+## Login
 
-password: 12345678
+- Email: jgardner@gmail.com
+- Password: 12345678
 
-### Login:
+## Tech Stack
 
-email: jgardner@gmail.com
+- Next.js (using JavaScript)
+- Tailwind CSS
+- Supabase
 
-password: 12345678
+## Deployment
 
-### Tech stack: 
-
-Next js using Javascript, Tailwind CSS. Supabase
-
-### Deployment:
-
-https://crework-assignment-94qh.vercel.app/
-
-
+[Crework Assignment Deployment](https://crework-assignment-94qh.vercel.app/)
