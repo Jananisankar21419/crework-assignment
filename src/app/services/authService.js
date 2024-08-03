@@ -1,4 +1,4 @@
-// services/authservice.mjs
+
 import { supabase } from "./supabaseClient.mjs";
 
 // Sign up new user
