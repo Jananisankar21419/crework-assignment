@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState } from "react";
-import LoginForm from "../components/LoginForm"; // Adjust path if necessary
+import LoginForm from "../components/LoginForm"; 
 
 const LoginPage = () => {
   return (
