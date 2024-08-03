@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from "react";
 import Image from "next/image";
-import { fetchTasks, updateTaskStatus } from "../services/taskservice.mjs"; // Import the fetchTasks and updateTaskStatus functions
-import TaskCard from "./TaskCard"; // Import the TaskCard component
-import AddTaskButton from "./AddTaskButton"; // Import the AddTaskButton component
+import { fetchTasks, updateTaskStatus } from "../services/taskservice.mjs"; 
+import TaskCard from "./TaskCard"; 
+import AddTaskButton from "./AddTaskButton";
 
 const TaskSections = () => {
   const [tasks, setTasks] = useState([]);
@@ -105,7 +105,7 @@ const TaskSections = () => {
                   <TaskCard
                     key={task.id}
                     task={task}
-                    onDragStart={handleDragStart} // Ensure this is passed
+                    onDragStart={handleDragStart} 
                   />
                 ))
               ) : (
