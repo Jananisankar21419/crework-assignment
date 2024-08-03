@@ -2,7 +2,7 @@
 
 import React, { useState } from "react";
 import Image from "next/image";
-import { addTask } from "../services/taskservice"; // Ensure this function is available
+import { addTask } from "../services/taskservice"; 
 
 const PostModal = ({ isOpen, onClose, onSubmit }) => {
   const [title, setTitle] = useState("");
