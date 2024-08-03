@@ -1,6 +1,5 @@
 import supabase from "./supabaseclient.mjs";
 
-// services/taskservice.mjs
 
 export const addTask = async (task) => {
   try {
