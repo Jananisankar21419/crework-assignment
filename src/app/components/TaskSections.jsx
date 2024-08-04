@@ -50,7 +50,7 @@ const TaskSections = () => {
     e.preventDefault();
   };
 
-  // Group tasks by status
+  // Group 
   const categories = [
     {
       id: "1",
